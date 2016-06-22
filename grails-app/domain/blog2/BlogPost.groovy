@@ -3,14 +3,18 @@ package blog2
 class BlogPost {
 
     String blogPostText
+    String title
     String authorName
+    Date dateCreated
+    ArrayList<Comment> comments
 
 
-    //static belongsTo = [group: AuthorPosts]
 
     static constraints = {
-     //   post(maxSize:1000, nullable:true)
-
+        blogPostText(blank: false)
+        title(blank: false)
+        authorName(blank: false)
+        dateCreated(editable: false)
     }
 
 }
