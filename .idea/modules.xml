@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Blog2.iml" filepath="$PROJECT_DIR$/Blog2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Blog2-grailsPlugins.iml" filepath="$PROJECT_DIR$/Blog2-grailsPlugins.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/features.iml" filepath="$PROJECT_DIR$/features/features.iml" />
     </modules>
   </component>
 </project>
