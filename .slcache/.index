@@ -4777,3 +4777,8 @@ n:1489:java_io_File$delete$8
 n:3103:jline/console/history/MemoryHistory$EntriesIterator
 n:1117:jline/console/history/MemoryHistory$EntryImpl
 n:264:jline/console/history/History$Entry
+n:1831:sl/org/objectweb/asm/tree/TryCatchBlockNode
+n:1800:sl/org/objectweb/asm/tree/FrameNode
+n:740:sl/org/objectweb/asm/tree/IincInsnNode
+n:1671:sl/org/objectweb/asm/tree/TableSwitchInsnNode
+n:2483:sl/org/objectweb/asm/tree/AnnotationNode
