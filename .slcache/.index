@@ -4774,3 +4774,6 @@ n:1826:grails/util/BuildSettings$getClassesDir$3
 n:2009:java_io_File$createTempFile$6
 n:1385:java_io_File$deleteOnExit$7
 n:1489:java_io_File$delete$8
+n:3103:jline/console/history/MemoryHistory$EntriesIterator
+n:1117:jline/console/history/MemoryHistory$EntryImpl
+n:264:jline/console/history/History$Entry
