@@ -4766,3 +4766,11 @@ n:2181:org/springframework/util/ConcurrentReferenceHashMap$2
 n:3377:org/springframework/util/ConcurrentReferenceHashMap$EntrySet
 n:3649:org/springframework/util/ConcurrentReferenceHashMap$EntryIterator
 n:1437:org/codehaus/groovy/control/CompilationUnit$compile$0
+n:1323:org/fusesource/jansi/internal/CLibrary
+n:5484:jline/internal/TerminalLineSettings
+n:801:org/codehaus/groovy/runtime/dgm$1097
+n:670:org/codehaus/groovy/runtime/dgm$368
+n:1826:grails/util/BuildSettings$getClassesDir$3
+n:2009:java_io_File$createTempFile$6
+n:1385:java_io_File$deleteOnExit$7
+n:1489:java_io_File$delete$8
